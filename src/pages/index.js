@@ -36,10 +36,7 @@ const IndexPage = () => (
           </div>
 */}
           <p className="lead mb-3 mt-4">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+           idkstuff
           </p>
         </div>
       </section>
@@ -55,69 +52,55 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Cloud Operations Engineer</h3>
+              <div className="subheading mb-3">Infocyte</div>
               <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
+                Job description here!
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">March 2013 - Present</span>
+              <span className="text-secondary">April 2019 - Present</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">OpenStack Engineer</h3>
+              <div className="subheading mb-3">Rackspace Hosting</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+                Job stuff here!
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">December 2011 - March 2013</span>
+              <span className="text-secondary">August 2015 - February 2017</span>
+              <br></br>
+              <span className="text-secondary">October 2018 - April 2019</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Operations Engineer</h3>
+              <div className="subheading mb-3">TeamSnap</div>
               <p>
-                Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration.
+                job stuff here!
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">July 2010 - December 2011</span>
+              <span className="text-secondary">April 2017 - October 2018</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Web Design Intern</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Linux Administrator</h3>
+              <div className="subheading mb-3">Rackspace Hosting</div>
               <p>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits. Dramatically visualize customer directed
-                convergence without revolutionary ROI.
+                job stuff here
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">September 2008 - June 2010</span>
+              <span className="text-secondary">January 2012 - August 2015</span>
             </div>
           </div>
         </div>
@@ -130,31 +113,48 @@ const IndexPage = () => (
         id="education"
       >
         <div className="w-100">
-          <h2 className="mb-5">Education</h2>
+          <h2 className="mb-5">Certifications</h2>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">Red Hat Certified Specialist in Ansible Automation</h3>
+              <div className="subheading mb-1">certificate id: 120-211-123</div>
+              <div>Technologies Used: Ansible 2.3</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">August 2006 - May 2010</span>
+              <span className="text-secondary">Date: March 2019</span>
+              <br></br>
+              <span className="text-secondary">Current Until: March 2022</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 className="mb-0">Red Hat Certified Engineer</h3>
+              <div className="subheading mb-3">certificate id: 120-211-123</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">August 2002 - May 2006</span>
+              <span className="text-secondary">Date: July 2013</span>
+              <br></br>
+              <span className="text-secondary">Current Until: March 2022</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0">Red Hat Certified Engineer</h3>
+              <div className="subheading mb-3">certificate id: 120-211-123</div>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-secondary">Date: July 2013</span>
+              <br></br>
+              <span className="text-secondary">Current Until: March 2022</span>
             </div>
           </div>
         </div>
+
+
+
       </section>
 
       <hr className="m-0" />
@@ -167,44 +167,47 @@ const IndexPage = () => (
           <h2 className="mb-5">Skills</h2>
 
           <div className="subheading mb-3">
-            Programming Languages &amp; Tools
+            OS & Tools (!! RE-ORGANIZE THIS)
           </div>
           <ul className="list-inline dev-icons">
-            <li className="list-inline-item">
-              <i className="fab fa-html5"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-ubuntu"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-css3-alt"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-redhat"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-js-square"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-trello"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-angular"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-docker"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-react"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-python"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-node-js"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-aws"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-sass"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fas fa-dharmachakra"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-less"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fas fa-cloud"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-wordpress"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-confluence"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-gulp"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fas fa-database"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-grunt"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-github"></i>
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-npm"></i>
+            <li className="list-inline-item dev-icons">
+              <i className="fas fa-users"></i>
+            </li>
+            <li className="list-inline-item dev-icons">
+              <i className="fab fa-slack-hash"></i>
             </li>
           </ul>
 
