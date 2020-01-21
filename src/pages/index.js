@@ -149,10 +149,31 @@ const IndexPage = () => (
               <span className="text-secondary">Current Until: March 2022</span>
             </div>
           </div>
+
+<br></br>
+<br></br>
+<br></br>
+
+          <h4 className="mb-2 text-warning">inactive certifications:</h4>
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0 font-italic">Red Hat Certificate of Expertise in Server Hardening</h3>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-light">Date: April 2015 - April 2018</span>
+            </div>
+          </div>
+
+        <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div className="resume-content">
+            <h3 className="mb-0 font-italic">Red Hat Certified Systems Administrator in Red Hat OpenStack</h3>
+          </div>
+          <div className="resume-date text-md-right">
+            <span className="text-light">Date: February 2016 - February 2019</span>
+          </div>
         </div>
 
-
-
+        </div>
       </section>
 
       <hr className="m-0" />

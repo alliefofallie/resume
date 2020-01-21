@@ -12,6 +12,18 @@
   font-size: 1.25rem;
 }
 
+.text-light {
+  color: $gray-700 !important;
+  font-family: 'Barlow';
+  font-style: italic;
+  font-size: 1.25rem;
+}
+
+.text-warning {
+  color: $gray-700 !important;
+  font-family: 'Special Elite';
+}
+
 a {
   color: $primary;
   &:hover {
