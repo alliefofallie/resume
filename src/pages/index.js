@@ -36,7 +36,7 @@ const IndexPage = () => (
           </div>
 */}
           <p className="lead mb-3 mt-4">
-           idkstuff
+          Linux lover with a sponge brain turned Ops Engineer. <br></br>Queen of the Cloud seeking entrance to the InfoSec kingdom. <i class="far fa-star"></i>
           </p>
         </div>
       </section>
@@ -66,9 +66,57 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">OpenStack Engineer</h3>
               <div className="subheading mb-3">Rackspace Hosting</div>
-              <p>
-                Job stuff here!
-              </p>
+                <ul className="fa-ul mb-0 ex-ul">
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Operating, updating, and troubleshooting Red Hat OpenStack and OpenStack-Ansible distributions
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Providing subject-matter expertise to the team on Red Hat OpenStack, including spreading knowledge such as developing documentation and presenting BrownBag sessions
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Hands-on experience with Pacemaker & managed services on Red Hat OpenStack
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Network troubleshooting cloud environments inside of net namespaces & across physical network interfaces
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Operation, administration, troubleshooting of different container types on different OpenStack distributions
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Basic administration & troubleshooting of environments with Ceph storage deployments
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Troubleshooting core & supporting OpenStack services
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Performed numerous OpenStack deployments of Red Hat OpenStack
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    At-scale management of OpenStack cloud environments with Ansible
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Assisted with RHOSP product evaluation & bug reporting (to Red Hat QA team)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Contributed to providing internal documentation for Red Hat OpenStack & Ceph Object Storage
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Provided technical information contributing to public-facing articles relating to OpenStack
+                  </li>
+                </ul>
+
             </div>
             <div className="resume-date text-md-right">
               <span className="text-secondary">August 2015 - February 2017</span>
@@ -81,9 +129,42 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Operations Engineer</h3>
               <div className="subheading mb-3">TeamSnap</div>
-              <p>
-                job stuff here!
-              </p>
+                <ul className="fa-ul mb-0 ex-ul">
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Wrote playbooks with Ansible playbooks to automate infrastructure management and operations tasks
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Implementation & management of Docker containers hosting microservices to be deployed into Kubernetes
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Work on-call shifts & respond to alarms/incidents
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Provide company IT Support (VPN management, email administration, etc.)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Administration & troubleshooting of F5 firewalls (at client-level)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Automation of deployment & implementation of monitoring & log analytics tool (DataDog)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Implementation, administration, and troubleshooting of Kubernetes cluster
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Automated creation & management of infrastructure with Terraform
+                  </li>
+                </ul>
+
+
             </div>
             <div className="resume-date text-md-right">
               <span className="text-secondary">April 2017 - October 2018</span>
@@ -94,9 +175,48 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Linux Administrator</h3>
               <div className="subheading mb-3">Rackspace Hosting</div>
-              <p>
-                job stuff here
-              </p>
+
+                <ul className="fa-ul mb-0 ex-ul">
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Began with very little experience in tech; was accepted into Rackspace's "Team New Talent" program for incoming Rackers to gain enough Linux experience to successfully support customers in a hosted environment
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Managed large enterprise linux environments for Rackspace's largest (F1000) customers
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Respond to customer requests regarding dedicated & cloud-hosted Linux environments via phone calls & ticketing system
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Respond to monitoring alarms related to server resource consumption issues such as high CPU, low-disk availability, etc.
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Wrote and quality-checked maintenance plans for scheduled customer downtime events
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Reported issues & product feedback with internal automation systems
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Served as escalation point to other Linux adminstrators on team, routinely mentored peers & new Rackers
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Routinely participated in mentoring newcomers to the Linux community in CyberPatriot & with Rackspace Cloud Academy's "Linux for Ladies" program
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Screened potential Linux candidates for consideration via phone-screen and face-to-face interviews
+                  </li>
+                </ul>
+
+
+
             </div>
             <div className="resume-date text-md-right">
               <span className="text-secondary">January 2012 - August 2015</span>
@@ -210,6 +330,9 @@ const IndexPage = () => (
               <i className="fas fa-cloud"></i>
             </li>
             <li className="list-inline-item dev-icons">
+              <i className="fas fa-code"></i>
+            </li>
+            <li className="list-inline-item dev-icons">
               <i className="fab fa-confluence"></i>
             </li>
             <li className="list-inline-item dev-icons">
@@ -224,24 +347,105 @@ const IndexPage = () => (
             </li>
           </ul>
 
-          <div className="subheading mb-3">Stuff</div>
-          <ul className="fa-ul mb-0">
+        <div className="subheading2 mb-3">hands-on experience:</div>
+          <ul className="fa-ul mb-0 sk-ul">
             <li>
-              <i className="fa-li fa fa-fw fa-bolt"></i>
-              Skills
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Maintaining entire cloud infrastructure and resources of startup environment
             </li>
             <li>
-              <i className="fa-li fa fa-bolt"></i>
-              More skills
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Implementing basic environmental necessities such as monitoring health-checks, log analytics, and resource provisioning automation
             </li>
             <li>
-              <i className="fa-li fa fa-bolt"></i>
-              More more skills
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Responding to on-call shifts, alarms, and incidents with PagerDuty & Slack
             </li>
             <li>
-              <i className="fa-li fa fa-bolt"></i>
-              Other more skills
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Writing automation tasks via Ansible for infrastructure mangement, application deployments, etc.
             </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Managing infrastructure resources across various cloud platforms (Google, AWS, Rackspace/OpenStack)
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Implementation & configuration of Kubernetes on different cloud platforms (Google, AWS)
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Writing service deployments for applications into Kubernetes
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Implementation, operation, troubleshooting of different container platforms (LXC, Docker in self-hosted, Kubernetes, and AWS ECS environments)
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Using Terraform to automate infrastructure management across different hosting providers
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Implementing, managing, creating dashboards on analytics platforms such as DataDog, Kibana, Grafana
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Automation of analytics software such as DataDog with Ansible
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Configuring pipelines in Spinnaker to assist with automated CI/CD deployments to Kubernetes
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Implementing & managing OpenVPN to run a self-hosted company VPN server
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Implementing OpenStack deployments using automated tools like Ironic, Heat, Puppet, and Ansible
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Management & troubleshooting cloud services such as Nova, Glance, Ironic, Heat, Neutron, Cinder, Swift, Ceph, Keystone, etc.
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Management & troubleshooting of core supporting technologies in cloud environments such as RabbitMQ, Galera, HAproxy, memcache, OpenvSwitch/Linux bridges, MySQL
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Tuning F5 connection pools to improve performance based on resource consumption
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Network management & troubleshooting in cloud and dedicated hosting environments
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Server-side management of database platforms such as MySQL & PostgreSQL
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Writing technical documentation to be consumed by non-technical audiences, internal & external
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Infrastructure-side deployment of Ruby/Elixir-based microservices
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Server & container-level management of resources hosting NodeJS applications
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Heavy experience managing AWS services (EC2, ECS, Route53, CloudWatch, CloudTrail, GuardDuty, etc.)
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Basic experience securing environments at the infrastruture-level (firewall)
+            </li>
+
           </ul>
         </div>
       </section>
@@ -255,16 +459,10 @@ const IndexPage = () => (
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            When I'm not managing & automating cloud infrastructure, I enjoy stuff
           </p>
           <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
-            movies and television shows, I am an aspiring chef, and I spend a
-            large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
+            And also some other stuff that I like or whatever
           </p>
         </div>
       </section>
@@ -277,38 +475,30 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Community Talks</h2>
-          <ul className="fa-ul mb-0">
+          <ul className="fa-ul mb-0 ct-ul">
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
+              <i className="fa-li fas fa-angle-right"></i>
+              Confessions of a SysAd (Linux Edition)
+              <li className="li-talks">
+              BSidesRGV, BSidesSA, Texas Linux Fest, BSidesBCS (Feb 2020), NOLAcon (May 2020)
+              <br></br>
+              Watch <a href="https://www.youtube.com/watch?v=AEVHUqD4wUM">here!</a>
+              </li>
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
+              <i className="fa-li fas fa-angle-right"></i>
+              From Zero to Hero: Going From Dropout to Engineer in > Decade
             </li>
+              <li className="li-talks">
+              Texas Cyber Summit
+              </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
+              <i className="fa-li fas fa-angle-right"></i>
+              Naked & Unafraid: Keeping Your Nudes Safe
             </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
-            </li>
+              <li className="li-talks">
+              Dallas Hackers Assocation
+              </li>
           </ul>
         </div>
       </section>
