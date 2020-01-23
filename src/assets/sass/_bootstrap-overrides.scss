@@ -21,7 +21,10 @@
 
 .text-warning {
   color: $gray-700 !important;
-  font-family: 'Special Elite';
+  font-size: 3.5rem;
+  font-style: italic;
+  font-family: 'Cookie';
+  text-transform: lowercase;
 }
 
 a {

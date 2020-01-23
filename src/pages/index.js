@@ -140,11 +140,11 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Red Hat Certified Engineer</h3>
+              <h3 className="mb-0">Red Hat Certified System Administrator</h3>
               <div className="subheading mb-3">certificate id: 120-211-123</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-secondary">Date: July 2013</span>
+              <span className="text-secondary">Date: December 2012</span>
               <br></br>
               <span className="text-secondary">Current Until: March 2022</span>
             </div>
@@ -184,10 +184,6 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Skills</h2>
-
-          <div className="subheading mb-3">
-            OS & Tools (!! RE-ORGANIZE THIS)
-          </div>
           <ul className="list-inline dev-icons">
             <li className="list-inline-item dev-icons">
               <i className="fab fa-ubuntu"></i>
@@ -222,31 +218,29 @@ const IndexPage = () => (
             <li className="list-inline-item dev-icons">
               <i className="fab fa-github"></i>
             </li>
-            <li className="list-inline-item dev-icons">
-              <i className="fas fa-users"></i>
-            </li>
+
             <li className="list-inline-item dev-icons">
               <i className="fab fa-slack-hash"></i>
             </li>
           </ul>
 
-          <div className="subheading mb-3">Workflow</div>
+          <div className="subheading mb-3">Stuff</div>
           <ul className="fa-ul mb-0">
             <li>
-              <i className="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design
+              <i className="fa-li fa fa-fw fa-bolt"></i>
+              Skills
             </li>
             <li>
-              <i className="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging
+              <i className="fa-li fa fa-bolt"></i>
+              More skills
             </li>
             <li>
-              <i className="fa-li fa fa-check"></i>
-              Cross Functional Teams
+              <i className="fa-li fa fa-bolt"></i>
+              More more skills
             </li>
             <li>
-              <i className="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum
+              <i className="fa-li fa fa-bolt"></i>
+              Other more skills
             </li>
           </ul>
         </div>

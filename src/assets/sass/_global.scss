@@ -40,6 +40,7 @@ h3 {
   font-size: 2rem;
 }
 
+
 p.lead {
   font-size: 2.0rem;
   font-weight: 400;
@@ -51,7 +52,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   @include heading-font;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: $secondary;
 }
 
