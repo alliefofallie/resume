@@ -507,8 +507,8 @@ const IndexPage = () => (
           <h2 className="mb-5">Interests</h2>
           <ul className="fa-ul mb-0 in-ul">
           <li>
-            <i className="fa-li-int fas fa-grin-stars"></i>
-              Interest!
+            <i className="fa-li-int far fa-grin-stars"></i>
+
           </li>
           </ul>
         </div>
