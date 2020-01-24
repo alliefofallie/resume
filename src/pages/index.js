@@ -488,26 +488,26 @@ const IndexPage = () => (
             <li>
               <i className="fa-li fas fa-angle-right"></i>
               Confessions of a SysAd (Linux Edition)
-              <li className="li-talks">
+              <p className="li-talks">
               BSidesRGV, BSidesSA, Texas Linux Fest, BSidesBCS (Feb 2020), NOLAcon (May 2020)
               <br></br>
               Watch <a href="https://www.youtube.com/watch?v=AEVHUqD4wUM">here!</a>
-              </li>
+              </p>
             </li>
             <li>
               <i className="fa-li fas fa-angle-right"></i>
               From Zero to Hero: Going From Dropout to Engineer in > Decade
             </li>
-              <li className="li-talks">
+              <p className="li-talks">
               Texas Cyber Summit
-              </li>
+              </p>
             <li>
               <i className="fa-li fas fa-angle-right"></i>
               Naked & Unafraid: Keeping Your Nudes Safe
             </li>
-              <li className="li-talks">
+              <p className="li-talks">
               Dallas Hackers Assocation
-              </li>
+              </p>
           </ul>
         </div>
       </section>
