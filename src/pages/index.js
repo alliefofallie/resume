@@ -157,7 +157,7 @@ const IndexPage = () => (
                   </li>
                   <li>
                     <i className="fa-exp-li fa fa-bolt"></i>
-                    Administration & troubleshooting of F5 firewalls (at client-level)
+                    Administration & troubleshooting of F5 load balancers (at client-level)
                   </li>
                   <li>
                     <i className="fa-exp-li fa fa-bolt"></i>
