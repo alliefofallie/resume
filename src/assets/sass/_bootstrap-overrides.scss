@@ -28,12 +28,12 @@
 }
 
 a {
-  color: $primary;
+  color: $secondary;
   &:hover {
-    color: #000;
+    color: $primary;
   }
   &:focus,
   &:active {
-    color: #fff;
+    color: $secondary;
   }
 }

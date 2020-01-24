@@ -504,13 +504,14 @@ const IndexPage = () => (
         id="interests"
       >
         <div className="w-100">
-          <h2 className="mb-5">Interests</h2>
-          <ul className="fa-ul mb-0 in-ul">
-          <li>
-            <i className="fa-li-int far fa-grin-stars"></i>
-
-          </li>
-          </ul>
+          <h2 className="mb-4">Interests</h2>
+          <p className="interests">
+          You can usually find me at the keyboard, either participating in CTF challenges/competitions, helping to maintain the <a href="https://twitter.com/ctf_circle" target="_blank">CTF Circle</a>, or volunteering & serving as interim CTO of <a href="https://badassarmy.org/" target="_blank">BADASS ARMY</a>, a non-profit dedicated to supporting victims of revenge porn.
+          </p>
+          <br></br>
+          <p className="interests">
+          When I'm AFK, I enjoy attending/speaking at InfoSec & Open-Source community conferences, including local community meetups such as Dallas Hackers Association. Outside of hacking community activities, I enjoy going to concerts & spending time with my animals. <i class="far fa-grin-beam fa-1x"></i>
+          </p>
         </div>
       </section>
 
