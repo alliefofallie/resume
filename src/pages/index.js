@@ -38,8 +38,14 @@ const IndexPage = () => (
           <p className="lead mb-3 mt-4">
           Linux lover with a sponge brain turned Ops Engineer. <br></br>Queen of the Cloud seeking entrance to the InfoSec kingdom. <i class="far fa-star"></i>
           </p>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
           <p className="download mt-5">
-          acquire as <a href="/assets/AllieBarnes-resume.pdf" target="_blank">PDF!</a>
+          <i class="fas fa-asterisk fa-xs"></i>   acquire as <a href="/assets/AllieBarnes-resume.pdf" target="_blank">PDF!</a>
           </p>
         </div>
       </section>
@@ -484,7 +490,6 @@ const IndexPage = () => (
               Confessions of a SysAd (Linux Edition)
               <li className="li-talks">
               BSidesRGV, BSidesSA, Texas Linux Fest, BSidesBCS (Feb 2020), NOLAcon (May 2020)
-              </li>
               <br></br>
               Watch <a href="https://www.youtube.com/watch?v=AEVHUqD4wUM">here!</a>
               </li>
