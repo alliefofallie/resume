@@ -484,6 +484,7 @@ const IndexPage = () => (
               Confessions of a SysAd (Linux Edition)
               <li className="li-talks">
               BSidesRGV, BSidesSA, Texas Linux Fest, BSidesBCS (Feb 2020), NOLAcon (May 2020)
+              </li>
               <br></br>
               Watch <a href="https://www.youtube.com/watch?v=AEVHUqD4wUM">here!</a>
               </li>
