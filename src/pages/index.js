@@ -295,7 +295,7 @@ const IndexPage = () => (
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div className="resume-content">
-            <h3 className="mb-0 font-italic">Red Hat Certified Systems Administrator in Red Hat OpenStack</h3>
+            <h3 className="mb-0 font-italic">Red Hat Certified System Administrator in Red Hat OpenStack</h3>
           </div>
           <div className="resume-date text-md-right">
             <span className="text-light">Date: February 2016 - February 2019</span>
