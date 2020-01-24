@@ -45,7 +45,7 @@ const IndexPage = () => (
           <br></br>
           <br></br>
           <p className="download mt-5">
-          <i class="fas fa-asterisk fa-xs"></i>   acquire as <a href="/assets/AllieBarnes-resume.pdf" target="_blank">PDF!</a>
+          <i class="fas fa-asterisk fa-xs"></i>   acquire as <a href="/assets/AllieBarnes2020.pdf" target="_blank">PDF!</a>
           </p>
         </div>
       </section>
