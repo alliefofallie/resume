@@ -98,7 +98,7 @@ const IndexPage = () => (
                   <li>
                     <i className="fa-exp-li fa fa-bolt"></i>
                     Speaking about product layout and features at IIA/ISACA Chicago 2019
-                  </li>                  
+                  </li>
                 </ul>
 
 
@@ -505,12 +505,12 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
-          <p>
-            When I'm not managing & automating cloud infrastructure, I enjoy stuff
-          </p>
-          <p className="mb-0">
-            And also some other stuff that I like or whatever
-          </p>
+          <ul className="fa-ul mb-0 in-ul">
+          <li>
+            <i className="fa-li-int fas fa-grin-stars"></i>
+              Interest!
+          </li>
+          </ul>
         </div>
       </section>
 
@@ -541,7 +541,7 @@ const IndexPage = () => (
               </p>
             <li>
               <i className="fa-li fas fa-angle-right"></i>
-              Naked & Unafraid: Keeping Your Nudes Safe
+              Naked & Unafraid: Keeping Your Private Pics Private
             </li>
               <p className="li-talks">
               Dallas Hackers Assocation
