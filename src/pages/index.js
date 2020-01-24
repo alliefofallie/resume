@@ -62,9 +62,47 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Cloud Operations Engineer</h3>
               <div className="subheading mb-3">Infocyte</div>
-              <p>
-                Job description here!
-              </p>
+                <ul className="fa-ul mb-0 ex-ul">
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Maintain & deliver infrastructure DevOps roadmap
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Manage AWS-hosted infrastructure & services (EC2, ECS, etc.)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Lead & mentor other Operations team members (small team)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Research & test architectural options/solutions in infrastruture
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Write & maintain playbooks to automate infrastructure provisioning & management (creating/configuring instances, database server backups, etc.)
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Deliver monitoring & log analytics solutions to environment
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Maintain & eliminate technical debt across environment
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Develop internal documentation regarding infrastructure
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
+                    Speaking about product layout and features at IIA/ISACA Chicago 2019
+                  </li>                  
+                </ul>
+
+
+
             </div>
             <div className="resume-date text-md-right">
               <span className="text-secondary">April 2019 - Present</span>
