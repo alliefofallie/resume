@@ -234,6 +234,10 @@ const IndexPage = () => (
                   </li>
                   <li>
                     <i className="fa-exp-li fa fa-bolt"></i>
+                    Patched vulnerable packages on customer systems in order to achieve compliance standards
+                  </li>
+                  <li>
+                    <i className="fa-exp-li fa fa-bolt"></i>
                     Respond to customer requests regarding dedicated & cloud-hosted Linux environments via phone calls & ticketing system
                   </li>
                   <li>
@@ -407,6 +411,10 @@ const IndexPage = () => (
             <li>
               <i className="fa-exp-li fa fa-bolt"></i>
               Responding to on-call shifts, alarms, and incidents with PagerDuty & Slack
+            </li>
+            <li>
+              <i className="fa-exp-li fa fa-bolt"></i>
+              Patching security vulnerabilities in enterprise customer environments
             </li>
             <li>
               <i className="fa-exp-li fa fa-bolt"></i>
