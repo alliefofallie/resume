@@ -38,6 +38,9 @@ const IndexPage = () => (
           <p className="lead mb-3 mt-4">
           Linux lover with a sponge brain turned Ops Engineer. <br></br>Queen of the Cloud seeking entrance to the InfoSec kingdom. <i class="far fa-star"></i>
           </p>
+          <p className="download mt-5">
+          acquire as <a href="/assets/AllieBarnes-resume.pdf" target="_blank">PDF!</a>
+          </p>
         </div>
       </section>
 
