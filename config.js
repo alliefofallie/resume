@@ -4,7 +4,7 @@ module.exports = {
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#000000',
-  manifestThemeColor: '#026735',
+  manifestThemeColor: '#03989e',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/sparkles.png',
   pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio

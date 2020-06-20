@@ -3,6 +3,8 @@
 // Restate Bootstrap Variables
 $tsgreen: #026735;
 $tslight: #88d13f;
+$darkteal: #03989e;
+$brightteal: #5ce1e6;
 $white: #fff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
@@ -29,8 +31,8 @@ $cyan: #17a2b8 !default;
 $magenta: #db264e !default;
 
 
-$primary: $tsgreen !default;
-$secondary: $tslight !default;
+$primary: $darkteal !default;
+$secondary: $brightteal !default;
 $success: $green !default;
 $info: $cyan !default;
 $warning: $yellow !default;
