@@ -536,7 +536,7 @@ const IndexPage = () => (
               <i className="fa-li fas fa-angle-right"></i>
               Confessions of a SysAd (Linux Edition)
               <p className="li-talks">
-              BSidesRGV, BSidesSA, Texas Linux Fest, BSidesBCS (Feb 2020), NOLAcon (May 2020)
+              BSidesRGV, BSidesSA, Texas Linux Fest, BSidesBCS
               <br></br>
               Watch <a href="https://www.youtube.com/watch?v=AEVHUqD4wUM">here!</a>
               </p>
@@ -553,7 +553,7 @@ const IndexPage = () => (
               Naked & Unafraid: Keeping Your Private Pics Private
             </li>
               <p className="li-talks">
-              Dallas Hackers Assocation
+              Dallas Hackers Assocation, Layer8 Conference, WomenHackzCon
               </p>
           </ul>
         </div>
